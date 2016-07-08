@@ -1,4 +1,4 @@
-﻿local function pre_process(msg)
+local function pre_process(msg)
 local to = msg.to.type
 local service = msg.service
 	if to == 'user' and msg.fwd_from then
@@ -243,14 +243,14 @@ end
 
 return {
     patterns = {
-	"^[#!/](help)$",
-	"^[#!/](pmhelp)$",
-	"^[#!/](superhelp)$",
-    "^[#!/](chats)$",
-    "^[#!/](chatlist)$",
-    "^[#!/](join) (%d+)$",
-	"^[#!/](join) (.*) (support)$",
-    "^[#!/](kickme) (.*)$",
+	"^/(help)$",
+	"^/(pmhelp)$",
+	"^/(superhelp)$",
+    "^/(chats)$",
+    "^/(chatlist)$",
+    "^/(join) (%d+)$",
+	"^/(join) (.*) (support)$",
+    "^/(kickme) (.*)$",
     "^!!tgservice (chat_add_user)$",
     },
     run = run,
