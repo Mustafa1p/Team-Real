@@ -1,3 +1,6 @@
+-- Made By TeamReal
+-- Join the channel @developer_0
+
 do 
 
 local function DevPoint(msg, matches) 
@@ -12,8 +15,6 @@ if ( msg.text ) then
    
 end 
 
--- code by osacar
-
 end 
 
 return { 
@@ -24,4 +25,3 @@ return {
 } 
 
 end 
--- post by @DevPointCH
