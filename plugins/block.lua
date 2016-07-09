@@ -1,3 +1,6 @@
+-- Made By TeamReal
+-- Join the channel @developer_0
+
 local function addword(msg, name)
     local hash = 'chat:'..msg.to.id..':badword'
     redis:hset(hash, name, 'nwrd')
