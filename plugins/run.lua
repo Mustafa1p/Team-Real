@@ -1,3 +1,6 @@
+-- Made By TeamReal
+-- Join the channel @developer_0
+
 function run(msg, matches)
 local reply_id = msg ['id']
 if not is_sudo(msg) then
