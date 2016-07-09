@@ -16,7 +16,7 @@ local omar = [[🔋 ⚡️ RealBot√ ⚡️ 🔋
 
 📌🔶➖🔶➖🔷➖🔶➖🔷📌
 
-Made By 🔹@Omar_Real]]
+join the channel 🔹@developer_0]]
 reply_msg(reply_id, omar, ok_cb, false)
 end
 local reply_id = msg ['id']
@@ -34,7 +34,7 @@ local help4 = [[📜 ⚡️🔋 Real<>Bot √ ⚡️🔋
 📱 /clean slist :: تنظيف المكتومين
 📱 /clean username :: حذف معرف المجموعة
 ♣️✨✨✨✨✨✨✨✨♣️
-Made By 🔹@Omar_Real]]
+join the channel 🔹@developer_0]]
 reply_msg(reply_id, help4, ok_cb, false)
 end
 local reply_id = msg ['id']
@@ -59,7 +59,7 @@ local help3 = [[ 📜 ⚡️ Real<>Bot√ ⚡️
 🔕 /ldr - اضهار قائمة الكلمات المحظورة
 🔕 /c ldr - حذف الكلمات السيئة
 ⏰ ☁️☁️☁️☁️☁️☁️☁️
-Made By 🔹@Omar_Real]]
+join the channel 🔹@developer_0]]
 reply_msg(reply_id, help3, ok_cb, false)
 end
 
@@ -107,7 +107,7 @@ local help5 =[[📜 ⚡️ Real<>Bot√ ⚡️
 🔶 /open text :: الغاء قفل المحادثة 🔓
 🔶 /media off  ::  كك الغاء قفل الميديا 🔓
 
-Made By 🔹@Omar_Real  ]]
+join the channel 🔹@developer_0 ]]
 reply_msg(reply_id, help5, ok_cb, false)
 end
 
@@ -142,7 +142,7 @@ local help1 = [[📜 ⚡️ Real<>Bot √ ⚡️
 📛 /setadmin :: تعيين اداري
 📛 /demote admin :: تنزيل اداري
 ✔〰〰〰〰〰〰〰〰✔
-Made By 🔹@Omar_Real ]]
+join the channel 🔹@developer_0 ]]
 reply_msg(reply_id, help1, ok_cb, false)
 end
 end
