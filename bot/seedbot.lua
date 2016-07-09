@@ -208,7 +208,6 @@ function create_config( )
   -- A simple config with basic plugins and ourselves as privileged user
   config = {
     enabled_plugins = {
-    "onservice",
     "inrealm",
     "ingroup",
     "inpm",
@@ -219,7 +218,6 @@ function create_config( )
     "set",
     "get",
     "broadcast",
-    "download_media",
     "invite",
     "all",
     "leave_ban",
