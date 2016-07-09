@@ -1,3 +1,6 @@
+-- Made By TeamReal
+-- Join the channel @developer_0
+
 do
 
 function run(msg, matches)
