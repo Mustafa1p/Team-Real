@@ -1,6 +1,9 @@
+-- Made By TeamReal
+-- join the channel @developer_0
+
 do
     
-local function axis(msg,matches)
+local function real(msg,matches)
     if matches[1] == "chat_add_user"  then 
      local text = 'اهلا 😊👋 بك عزيزي في المجموعة 👥🔕'..'\n'..'\n'
      ..'المعلومات 📋 الخاصة بك 🔷'..'\n'
@@ -48,6 +51,6 @@ return {
         "^!!tgservice (chat_add_user)$",
         "^!!tgservice (chat_add_user_link)$",
     },
- run = axis
+ run = real
 }
 end
