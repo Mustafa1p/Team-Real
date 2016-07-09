@@ -1,3 +1,7 @@
+-- Made By @Omar_Real 
+-- Made By @MAXDEVD
+-- join the channel @developer_0
+
 do
 
 function saeco(msg, matches)
