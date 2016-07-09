@@ -3,7 +3,7 @@
 
 do 
 
-local function DevPoint(msg, matches) 
+local function TeamReal(msg, matches) 
 local reply_id = msg ['id']
 if ( msg.text ) then
 
@@ -21,7 +21,7 @@ return {
   patterns = { 
        "(.*)$"
   }, 
-  run = DevPoint, 
+  run = TeamReal, 
 } 
 
 end 
