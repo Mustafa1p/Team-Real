@@ -1,3 +1,5 @@
+-- join the channel @developer_0
+
 do 
 
 local function run(msg, matches) 
