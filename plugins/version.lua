@@ -11,7 +11,7 @@
 do
 
 function run(msg, matches)
-  return 'DEV Omar-Real V1 Supergroups\nAn advanced Administration bot based on TeleGram best bot \n\nسورس 🔷 DEVE Omar-Real الاصدار الاول 💸\nيدعم المجموعات 👥✔️ الخارقة 🚀 \n🎴 المطور @Omar_Real\nDeveloper: @Omar_Real\n\nhttps://github.com/DEVOmarReal/OMARREAL.git\nChannels\n@AXIS_BOTcena\n@IQ_DEV8\n@CH_ZEOONEGNU GPL v2 license.'
+  return 'TeamReal V1 Supergroups\nAn advanced Administration bot based on TeleGram best bot \n\nسورس 🔷 TeamReal الاصدار الاول 💸\nيدعم المجموعات 👥✔️ الخارقة 🚀 \n🎴 المطور @Omar_Real\n@MAXDEVD\n\nhttps://github.com/TeamReal/Team-Real.git\n Channels\n@AXIS_BOTcena\n@IQ_DEV8\n@developer_0\nGNU GPL v2 licens'
 end
 
 return {
