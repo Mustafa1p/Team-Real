@@ -1,3 +1,6 @@
+-- Made By @Omar_Real 
+-- Join the channel @developer_0
+
 do
 
 local function pre_process(msg)
