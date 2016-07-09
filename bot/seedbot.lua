@@ -232,7 +232,7 @@ function create_config( )
     "HI",
     "version",
     "me",
-    "help"
+    "help",
     "plugins",
     "id",
     "run",
