@@ -4,7 +4,6 @@ package.cpath = package.cpath .. ';.luarocks/lib/lua/5.2/?.so'
 
 require("./bot/utils")
 
-VERSION = '2'
 
 -- This function is called when tg receive a msg
 function on_msg_receive (msg)
@@ -341,8 +340,8 @@ function cron_plugins()
     end
   end
 
-  -- Called again in 2 mins
-  postpone (cron_plugins, false, 120)
+  -- Called again in 5 mins
+  postpone (cron_plugins, false, 5*60.0)
 end
 
 -- Start and load values
