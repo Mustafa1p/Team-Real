@@ -1,10 +1,13 @@
+-- Made By TeamReal
+-- join the channel @developer_0
+
 do
 
 function run (msg, matches)
 
 local reply_id = msg ['id']
 if matches[1]==  'dev' and is_momod(msg) then
-local omar = [[🔋 ⚡️ DEVOMAR ⚡️ 🔋
+local omar = [[🔋 ⚡️ TeamReal ⚡️ 🔋
 📌🔶➖🔶➖🔷➖🔶➖🔷📌
 📫 /sban : باند عام 
 📪 /newgroup ::   انشاء مجموغعة
@@ -12,7 +15,7 @@ local omar = [[🔋 ⚡️ DEVOMAR ⚡️ 🔋
 📪 /uRealBot ::  الغاء تفعيل المجوعة 
 📪 /unsban ::  الغاء العام 
 📌🔶➖🔶➖🔷➖🔶➖🔷📌
-Made By 🔹@Omar_Real]]
+join the channel 🔹@developer_0]]
 reply_msg(reply_id, omar, ok_cb, false)
 end
 end 
